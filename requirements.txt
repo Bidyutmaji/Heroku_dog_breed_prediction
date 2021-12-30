@@ -1,4 +1,4 @@
-tensorflow
+tensorflow-cpu
 tensorflow_hub
 streamlit
 pillow
