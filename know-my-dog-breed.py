@@ -44,8 +44,6 @@ st.write('''
 image = st.file_uploader('Please upload your dog image.', type=['jpg', 'png'])
 url = st.text_input('Or, please give a valid link.')
 
-st.spinner('Hare Krishna!')
-st.button()
 if image is not None:
     for file in os.listdir('tmp'):
         os.remove(os.path.join('tmp', file))
