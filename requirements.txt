@@ -1,0 +1,7 @@
+tensorflow
+tensorflow_hub
+streamlit
+pillow
+numpy
+pandas
+wget
